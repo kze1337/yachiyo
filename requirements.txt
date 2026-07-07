@@ -1,0 +1,11 @@
+discord.py>=2.3.0
+python-dotenv>=1.0.0
+psutil
+pytz
+yt-dlp
+openai
+pynacl
+aiohttp
+ddgs
+duckduckgo-search
+opencv-python-headless
